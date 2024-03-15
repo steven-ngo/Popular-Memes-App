@@ -8,7 +8,7 @@ st.markdown('''
 # Popular Memes App
 This web app displays a vast collection of current popular meme templates.
 
-- Source Code: 
+- Source Code: https://github.com/steven-ngo/Popular-Memes-App
 - Language: `Python`
 - Libraries: `streamlit`
 ''')
